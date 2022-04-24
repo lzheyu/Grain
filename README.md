@@ -10,6 +10,10 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
+To install openbox package:
+
+Guided by this link: https://open-box.readthedocs.io/en/latest/installation/installation_guide.html
+
 
 ## Training
 
